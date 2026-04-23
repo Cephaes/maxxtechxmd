@@ -1,9 +1,9 @@
-# Maxx-tech
-A WhatsApp bot with rich and multiple features created by carlymaxx.
+# Cephaes-tech
+A WhatsApp bot with rich and multiple features created by cephaes.
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5741905.gif" width="415" height="94" alt="MAXX~XMD" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5741905.gif" width="415" height="94" alt="CEPHAES~XMD" /></a>
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5741908.png" width="184" height="68" alt="Maxx~xmd" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5741908.png" width="184" height="68" alt="CEPHAES~xmd" /></a>
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
@@ -13,7 +13,7 @@ A WhatsApp bot with rich and multiple features created by carlymaxx.
 
 <div align="center"> 
   <a href=""> 
-    <img src="https://files.catbox.moe/9r47nb.jpg" alt="MAXX-XMD ⚡" height="300"> 
+    <img src="https://files.catbox.moe/9r47nb.jpg" alt="CEPHAES-XMD ⚡" height="300"> 
   </a> 
 </div>
 
